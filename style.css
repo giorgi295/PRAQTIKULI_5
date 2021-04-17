@@ -1,0 +1,50 @@
+form{
+    border: 1px solid black;
+    width: 400px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -20%);
+    background-color: lightgrey;
+    border-right-style: none;
+    border-top-style: none;
+
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+.username-1 input{
+    height: 30px;
+}
+
+
+.password-1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.password-1 input{
+    height: 30px;
+}
+
+
+.btn-1{
+    min-width: 165px;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    border-radius: 7px;
+    outline: none;
+}
+
+input:focus{
+    outline: none;
+}
+
+.registration-1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

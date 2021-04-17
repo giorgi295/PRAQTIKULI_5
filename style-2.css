@@ -1,0 +1,75 @@
+form{
+    position: absolute;
+    border: solid black 1px;
+    border-color: green;
+    background-color: #E5FFE5;
+    height: 700px;
+    width: 900px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+label{
+    color: green;
+}
+
+.inputs-1{
+    width: 400px;
+    position: relative;
+}
+
+
+.inps input{
+    outline: none;
+    width: 350px;
+    margin: 20px;
+
+}
+
+textarea{
+    outline: none;
+    width: 350px;
+    height: 100px;
+    margin: 20px;
+}
+
+hr{
+    position: relative;
+    border: solid green 1px;
+    background-color: green;
+    width: 90%;
+    bottom: 200px;
+
+}
+
+.questions{
+    position: relative;
+    width: 400px;
+    left: 425px;
+    top: -350px;
+    
+}
+
+
+.btn{
+    color: white;
+    position: relative;
+    bottom: 150px;
+    left: 40%;
+    width: 200px;
+    height: 40px;
+    background-color: #7dc47d;
+    border: 1px green solid;
+    outline: none;
+    border-radius: 2px;
+}
+
+.btn:hover{
+    background-color: #598859;
+}
+
+
+
